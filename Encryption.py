@@ -12,6 +12,7 @@ length = len(no_str)
 #print(length)
 num = math.sqrt(length)
 k = int(num)
+#
 if(k*k < length):
     row = k
     col = k+1
